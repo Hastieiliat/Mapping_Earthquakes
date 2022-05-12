@@ -13,7 +13,7 @@ let line = [
 ];
 
 // Create a polyline using the line coordinates and make the line yellow.
-L.polyline(dashedline, {
+L.polyline(line, {
   color: "blue",
   weight:4,
   opicity:0.5
